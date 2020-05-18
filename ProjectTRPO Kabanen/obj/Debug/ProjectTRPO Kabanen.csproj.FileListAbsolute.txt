@@ -1,0 +1,17 @@
+C:\Users\black\source\repos\ProjectTRPO Kabanen\ProjectTRPO Kabanen\bin\Debug\ProjectTRPO Kabanen.exe.config
+C:\Users\black\source\repos\ProjectTRPO Kabanen\ProjectTRPO Kabanen\bin\Debug\ProjectTRPO Kabanen.exe
+C:\Users\black\source\repos\ProjectTRPO Kabanen\ProjectTRPO Kabanen\bin\Debug\ProjectTRPO Kabanen.pdb
+C:\Users\black\source\repos\ProjectTRPO Kabanen\ProjectTRPO Kabanen\obj\Debug\ProjectTRPO Kabanen.csprojAssemblyReference.cache
+C:\Users\black\source\repos\ProjectTRPO Kabanen\ProjectTRPO Kabanen\obj\Debug\ProjectTRPO_Kabanen.Login.resources
+C:\Users\black\source\repos\ProjectTRPO Kabanen\ProjectTRPO Kabanen\obj\Debug\ProjectTRPO_Kabanen.Menu.resources
+C:\Users\black\source\repos\ProjectTRPO Kabanen\ProjectTRPO Kabanen\obj\Debug\ProjectTRPO_Kabanen.Properties.Resources.resources
+C:\Users\black\source\repos\ProjectTRPO Kabanen\ProjectTRPO Kabanen\obj\Debug\ProjectTRPO_Kabanen.Receipt.resources
+C:\Users\black\source\repos\ProjectTRPO Kabanen\ProjectTRPO Kabanen\obj\Debug\ProjectTRPO_Kabanen.Register.resources
+C:\Users\black\source\repos\ProjectTRPO Kabanen\ProjectTRPO Kabanen\obj\Debug\ProjectTRPO Kabanen.csproj.GenerateResource.cache
+C:\Users\black\source\repos\ProjectTRPO Kabanen\ProjectTRPO Kabanen\obj\Debug\ProjectTRPO Kabanen.csproj.CoreCompileInputs.cache
+C:\Users\black\source\repos\ProjectTRPO Kabanen\ProjectTRPO Kabanen\obj\Debug\ProjectTRPO Kabanen.exe
+C:\Users\black\source\repos\ProjectTRPO Kabanen\ProjectTRPO Kabanen\obj\Debug\ProjectTRPO Kabanen.pdb
+C:\Users\black\source\repos\ProjectTRPO Kabanen\ProjectTRPO Kabanen\obj\Debug\ProjectTRPO_Kabanen.Add.resources
+C:\Users\black\source\repos\ProjectTRPO Kabanen\ProjectTRPO Kabanen\obj\Debug\ProjectTRPO_Kabanen.Update.resources
+C:\Users\black\source\repos\ProjectTRPO Kabanen\ProjectTRPO Kabanen\bin\Debug\Database3.mdf
+C:\Users\black\source\repos\ProjectTRPO Kabanen\ProjectTRPO Kabanen\bin\Debug\Database3_log.ldf
